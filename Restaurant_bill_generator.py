@@ -1,6 +1,10 @@
 # Coded by Yashowardhan Shinde FC059
 # Object oriented program
 # Restaurant Bill Generator
+''' 
+To run this program you will have to download the menu.txt file as well,
+as data is being extracted from this file while running this program.
+'''
 
 # Getting the restaurant menu from the Data file
 menu = []
@@ -141,3 +145,4 @@ else:
     x = Restaurant(menu, bill_items, quantity)
     x.bill_structure()
     x.customer_info()
+ 
