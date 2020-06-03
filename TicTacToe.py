@@ -1,3 +1,4 @@
+# Coded by Yashowardhan Shinde..
 import random
 # Simple 2 player TIC TAC TOE
 # An inbuilt function Random has been imported for this project
