@@ -1,0 +1,30 @@
+1  French Fries  106  Rs.
+2  Chili Cheese Toast  115  Rs.
+3  Chili Cheese Garlic Toast  115  Rs.
+4  Garlic Bread  98  Rs.
+5  Garlic Bread with Cheese  119  Rs.
+6  Plain Sandwich  175  Rs.
+7  Grilled Sandwich  175  Rs.
+8  Club Sandwich  175  Rs.
+9  Tandoori Paneer Tikka  220  Rs.
+10  Malai Paneer Tikka 	220  Rs.
+11  Soya Tandoori Tikka  175  Rs.
+12  Tandoori Aloo  179  Rs.
+13  Punjabi Soya Chap  179  Rs.
+14  Hare-Bhara Kebab  162  Rs.
+15  Dahi ke Kebab  179  Rs.
+16  Platter  325  Rs.
+17  Dosa (Butter)  125  Rs.
+18  Onion Dosa (Butter)  136  Rs.
+19  Paper Dosa  130  Rs.
+20  Mysore Dosa   123  Rs.
+21  Rawa Dosa 	119  Rs.
+22  Onion Rawa Dosa  136  Rs.
+23  Shahi Paneer  210  Rs.
+24  Kadhai Paneer  210  Rs.
+25  Paneer Butter Masala  210  Rs.
+26  Mushroom Masala  215  Rs.
+27  Roti  20  Rs.
+28  Naan  40  Rs.
+29  Butter Roti  30  Rs.
+30  Butter Naan  50  Rs.
